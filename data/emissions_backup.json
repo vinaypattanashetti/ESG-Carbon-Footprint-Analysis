@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2025-07-31",
+    "scope": "Scope 1",
+    "category": "Stationary Combustion",
+    "activity": "Boiler",
+    "quantity": 2.0,
+    "unit": "kWh",
+    "emission_factor": 1.85,
+    "emissions_kgCO2e": 3.7,
+    "notes": "",
+    "business_unit": "Corporate",
+    "project": "Carbon Reduction Initiative",
+    "country": "India",
+    "facility": "Mumbai",
+    "responsible_person": "Ravi",
+    "data_quality": "Medium",
+    "verification_status": "Unverified"
+  }
+]
